@@ -2,3 +2,5 @@ this is first file
 this is line 2 !!
 take input from user
 add the values
+
+submit data to database
